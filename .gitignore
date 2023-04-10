@@ -1,0 +1,5 @@
+rest-client
+# Project exclude paths
+/api-gateway/target/
+/customer/target/
+/fraud/target/
